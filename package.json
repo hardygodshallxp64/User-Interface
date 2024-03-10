@@ -1,0 +1,26 @@
+{
+"name": "weisuodexiaohai2848-fqihuqw",
+"version": "1.0.0",
+"description": "The project's user interface is simple and intuitive, making it easy for users to get started quickly.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/hardygodshallxp64/User-Interface.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "hardygodshallxp64",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
